@@ -4,7 +4,7 @@ This project is a work in progress while I study and take notes for the CompTIA 
 # Disclaimer
 Do not rely on these notes to pass the exam. It is advised to either watch Professor Messer's videos, use any official study guide material, and use the exam objectives for the relevant exam you are studying for. 
 
-NOTE: The information used in my notes has come from Professor Messer's free SY0-601 CompTIA Security+ Course videos. 
+NOTE: The information used in my notes has come from Professor Messer's free SY0-601 CompTIA Security+ Course videos as well as Mike Chappel's LinkedIn Cert Prep courses. 
 
 https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
 
