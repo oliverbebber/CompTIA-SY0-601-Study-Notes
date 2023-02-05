@@ -98,3 +98,26 @@ A. To provide guidance on how to comply with security regulations
 B. To provide technical specifications for security products
 
 C. To enforce security regulations
+
+
+# Practice Questions: IAM
+### What is the purpose of multi-factor authentication?
+A. To prevent unauthorized access to sensitive information
+
+B. To monitor network traffic for suspicious activity
+
+C. To encrypt data transmitted over a network
+
+### What is the primary function of an identity management system?
+A. To manage user access to systems and applications
+
+B. To encrypt data stored on a device
+
+C. To monitor network traffic for security threats
+
+### What is the most secure form of authentication?
+A. Knowledge-based authentication
+
+B. Token-based authentication
+
+C. Biometric authentication
