@@ -74,3 +74,27 @@ B. Avoidance
 C. Transference
 
 D. All of the above
+
+
+
+# Practice Questions: Compliance & Assessment
+### Which regulation requires financial organizations to ensure the confidentiality and privacy of customer information?
+A. Sarbanes-Oxley Act
+
+B. Health Insurance Portability and Accountability Act (HIPAA)
+
+C. Payment Card Industry Data Security Standard (PCI DSS)
+
+### What is the primary goal of the General Data Protection Regulation (GDPR)?
+A. Ensure the security of payment card transactions
+
+B. Protect the privacy of customer information
+
+C. Prevent fraud in the financial sector
+
+### What is the purpose of security frameworks such as NIST, ISO 27001, and COBIT?
+A. To provide guidance on how to comply with security regulations
+
+B. To provide technical specifications for security products
+
+C. To enforce security regulations
