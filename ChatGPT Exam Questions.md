@@ -1,29 +1,29 @@
 # ChatGPT to study for CompTIA Sec+
 Someone on LinkedIn shared this trick, so I decided to try it out for myself. I asked ChatGPT to give me the objectives of the CompTIA Security+ SY0-601, and these are the results.
 
-    1. The CompTIA Security+ SY0-601 certification exam measures a candidate's ability to demonstrate knowledge and skills in the following objectives:
+The CompTIA Security+ SY0-601 certification exam measures a candidate's ability to demonstrate knowledge and skills in the following objectives:
 
-    2. Threats, Attacks, and Vulnerabilities: Understanding various types of security threats, attacks, and vulnerabilities, and how to protect against them.
+1. Threats, Attacks, and Vulnerabilities: Understanding various types of security threats, attacks, and vulnerabilities, and how to protect against them.
 
-    3. Technologies and Tools: Knowledge of security technologies and tools, including firewalls, network security, encryption, and identity and access management.
+2. Technologies and Tools: Knowledge of security technologies and tools, including firewalls, network security, encryption, and identity and access management.
 
-    4. Architecture and Design: Understanding security architecture and design, including secure network design and secure system design.
+3. Architecture and Design: Understanding security architecture and design, including secure network design and secure system design.
 
-    5. Identity and Access Management: Knowledge of identity and access management principles and practices, including authentication and authorization.
+4. Identity and Access Management: Knowledge of identity and access management principles and practices, including authentication and authorization.
 
-    6. Risk Management: Understanding risk management principles and practices, including risk assessment and mitigation.
+5. Risk Management: Understanding risk management principles and practices, including risk assessment and mitigation.
 
-    7. Cryptography: Understanding cryptography concepts and techniques, including symmetric and asymmetric encryption, digital signatures, and hash functions.
+6. Cryptography: Understanding cryptography concepts and techniques, including symmetric and asymmetric encryption, digital signatures, and hash functions.
 
-    8. Network Security: Knowledge of network security concepts and practices, including network protocols, network segmentation, and network security devices.
+7. Network Security: Knowledge of network security concepts and practices, including network protocols, network segmentation, and network security devices.
 
-    9. Compliance and Operational Security: Understanding the legal and regulatory requirements for security, and the operational security practices that support those requirements.
+8. Compliance and Operational Security: Understanding the legal and regulatory requirements for security, and the operational security practices that support those requirements.
 
-    10. Software Development Security: Understanding the principles and practices of secure software development, including secure coding, testing, and debugging.
+9. Software Development Security: Understanding the principles and practices of secure software development, including secure coding, testing, and debugging.
 
-    11. Disaster Recovery and Business Continuity: Understanding the principles and practices of disaster recovery and business continuity planning.
+10. Disaster Recovery and Business Continuity: Understanding the principles and practices of disaster recovery and business continuity planning.
 
-    The CompTIA Security+ certification is designed for IT professionals who have a minimum of two years of experience in network security and who are seeking to advance their careers in the field of cybersecurity.
+The CompTIA Security+ certification is designed for IT professionals who have a minimum of two years of experience in network security and who are seeking to advance their careers in the field of cybersecurity.
 
 Then I asked ChatGPT to generate some practice questions based on an objective it gave me, with random answers (not all correct answers being A) and to wait until I ask for the correct answer. This will be a work in progress as I continue to implement it into my studies.
 
